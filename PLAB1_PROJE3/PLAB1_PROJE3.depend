@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1577629947 source:c:\users\user\desktop\plab1_proje3\plab1_proje3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+
